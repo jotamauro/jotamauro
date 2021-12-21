@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Python
 - 📫 How to reach me: josemaurodl@gmail.com
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/jotamauro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
