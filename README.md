@@ -19,7 +19,10 @@
 </div>
  
 ##
+
+![Jota's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jotamauro&theme=radical)
   
+##  
 <div> 
  
   <a href="https://instagram.com/jotamaurodl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
