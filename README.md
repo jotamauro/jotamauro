@@ -21,7 +21,6 @@
 ##
 
 ![Jota's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jotamauro&theme=radical)
-![Jota's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jotamauro&theme=radical)
  
 ##  
 <div> 
