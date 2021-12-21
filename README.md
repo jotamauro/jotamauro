@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is José Mauro but everyone call me as Jota(Jay in english.) Welcome!!
 
 - 🔭 I’m currently working on React Native
 - 🌱 I’m currently learning Python
