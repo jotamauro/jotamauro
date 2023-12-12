@@ -1,9 +1,7 @@
 ### Hi there 👋 My name is José Mauro but everyone call me as Jota(Jay in english.) Welcome!!
 
 - 🔭 I’m currently working on React Native
-- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on ReactJS projects
-- 🤔 I’m looking for help with Python
 - 📫 How to reach me: josemaurodl@gmail.com
 
 <div align="left">
